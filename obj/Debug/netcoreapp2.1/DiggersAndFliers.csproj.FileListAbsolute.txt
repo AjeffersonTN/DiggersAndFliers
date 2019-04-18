@@ -1,0 +1,11 @@
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\bin\Debug\netcoreapp2.1\DiggersAndFliers.deps.json
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\bin\Debug\netcoreapp2.1\DiggersAndFliers.runtimeconfig.json
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\bin\Debug\netcoreapp2.1\DiggersAndFliers.runtimeconfig.dev.json
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\bin\Debug\netcoreapp2.1\DiggersAndFliers.dll
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\bin\Debug\netcoreapp2.1\DiggersAndFliers.pdb
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\obj\Debug\netcoreapp2.1\DiggersAndFliers.csprojAssemblyReference.cache
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\obj\Debug\netcoreapp2.1\DiggersAndFliers.csproj.CoreCompileInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\obj\Debug\netcoreapp2.1\DiggersAndFliers.AssemblyInfoInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\obj\Debug\netcoreapp2.1\DiggersAndFliers.AssemblyInfo.cs
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\obj\Debug\netcoreapp2.1\DiggersAndFliers.dll
+C:\Users\akjef\workspace\csharp\exercises\DiggersAndFliers\obj\Debug\netcoreapp2.1\DiggersAndFliers.pdb
